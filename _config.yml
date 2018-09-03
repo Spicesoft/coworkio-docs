@@ -4,8 +4,8 @@ email: dev@cowork.io
 description: >
   Documentation for Cowork.io's API.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://coworkio-docs.github.io/ # the base hostname & protocol for your site
+baseurl: "/coworkio-docs" # the subpath of your site, e.g. /blog/
+url: https://spicesoft.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/Spicesoft/coworkio-docs
 git_edit_address: https://github.com/Spicesoft/coworkio-docs/blob/gh-pages
 
