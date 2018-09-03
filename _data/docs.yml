@@ -1,13 +1,17 @@
-- title: Documentation
+- title: Get started
   docs:
-  - home
-  - workflows
-  - code_samples
-  - mdreference
-  - openapi
+  - intro
+  - authentication
 
-- title: More information
+- title: Discover
   docs:
-  - mvd_checklist
-  - publishing_options
+  - exploration
+  - availabilities
+  - reservation
+  - directory
+  - customers
 
+- title: Documents
+  docs:
+  - api
+  - webhooks
